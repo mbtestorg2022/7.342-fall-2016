@@ -59,18 +59,177 @@ This course will be graded pass/fail based on attendance, preparedness, particip
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Course Overview | &nbsp; |
-| 2 | The discovery of miRNAs as gene regulators | &nbsp; |
-| 3 | Roles for miRNAs beyond gene downregulation | &nbsp; |
-| 4 | From siRNA discovery to therapeutic agent | &nbsp; |
-| 5 | Circular RNAs and the competing endogenous RNA hypothesis | &nbsp; |
-| 6 | Role of lncRNAs in X chromosome inactivation | &nbsp; |
-| 7 | Regulation of genomic imprinting by long non-coding RNAs | Written Assignment due |
-| 8 | Field trip to Alnylam | Field trip to the [Alnylam Pharmaceuticals](http://www.alnylam.com/), Inc. |
-| 9 | Catalytic functions of RNA and the RNA-world hypothesis: Ribozymes | &nbsp; |
-| 10 | It's all about the ribosome | &nbsp; |
-| 11 | Chemical modifications of mature RNA molecules | &nbsp; |
-| 12 | Harnessing an RNA-guided immune system to treat human disease | &nbsp; |
-| 13 | Oral Presentations and Course Evaluations | Oral Presentations due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The discovery of miRNAs as gene regulators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Roles for miRNAs beyond gene downregulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+From siRNA discovery to therapeutic agent
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Circular RNAs and the competing endogenous RNA hypothesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Role of lncRNAs in X chromosome inactivation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Regulation of genomic imprinting by long non-coding RNAs
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to Alnylam
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to the [Alnylam Pharmaceuticals](http://www.alnylam.com/), Inc.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Catalytic functions of RNA and the RNA-world hypothesis: Ribozymes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+It's all about the ribosome
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical modifications of mature RNA molecules
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Harnessing an RNA-guided immune system to treat human disease
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations and Course Evaluations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
